@@ -1,0 +1,31 @@
++(0):ERROR:0: Unable to locate a modulefile for 'gnuplot'
+(OK) Loading LIBRARIES environment
+(OK) Loading GRAPHICS environment
+(OK) Loading MISC environment
+(OK) Loading paraview 5.6.0
++(0):ERROR:0: Unable to locate a modulefile for 'python/3.7.9'
+(OK) Loading cuda 10.1.243-new
+(OK) Loading cudnn 7.6.5
+(OK) Unloading cudnn 7.6.5
+(OK) Unloading cuda 10.1.243-new
+(OK) Unloading paraview 5.6.0
+(OK) Unloading MISC environment
+(OK) Unloading GRAPHICS environment
+(OK) Unloading LIBRARIES environment
+(OK) Unloading intelmpi 2018.4.274
+(OK) Unloading Intel Suite 19.0.1.144
+(OK) Loading gcc 8.2.0
+(!!) OpenACC / OpenMP offload to Pascal GPUs might be slow. Use 
+(!!)  $FLAGS_OFFLOAD_OPENMP or $FLAGS_OFFLOAD_OPENACC envvars.
+(OK) Intel MPI Suite 2018.4.274 loaded.
+(OK) Loading LIBRARIES environment
+(OK) Loading GRAPHICS environment
+(OK) Loading MISC environment
+(OK) Loading paraview 5.6.0
+(OK) Loading cuda 10.1.243-new
+(OK) Loading cudnn 7.6.5
+(OK) Unloading intelmpi 2018.4.274
+(OK) Loading openmpi 4.0.3 for gcc compiler
+(!!) CUDA-capable version
+2022-06-28 23:13:49.921853: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
